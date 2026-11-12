@@ -7,10 +7,15 @@
 Análisis exploratorio de datos de prospección pesquera artesanal en el Archipiélago de San Andrés y Providencia. El proyecto incluye carga de datos, exploración básica, visualizaciones y una función documentada.
 
 ### Estructura
+
 ├── README.md
+
 ├── datos/
+
 │   └── T_Maestra_Prov.xlsx
+
 ├── Figuras/
+
 └── notebook.ipynb
 
 
